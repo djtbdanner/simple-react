@@ -1,0 +1,20 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react can i make it work",
+  "main": "servers.js",
+  "scripts": {
+    "test": "jest --verbose false",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djtbdanner/TBD"
+  },
+  "author": "Dave Danner",
+  "license": "none",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

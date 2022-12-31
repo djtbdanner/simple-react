@@ -1,0 +1,5 @@
+node_modules
+config.js
+.vscode
+*.zip
+document/.~lock.checkerboard.doc#
